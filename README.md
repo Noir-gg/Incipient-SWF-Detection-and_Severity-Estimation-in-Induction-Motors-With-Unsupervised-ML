@@ -1,0 +1,1 @@
+# Incipient-SWF-Detection-and_Severity-Estimation-in-Induction-Motors-With-Unsupervised-ML
