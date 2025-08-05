@@ -50,5 +50,6 @@ jupyter lab
 ```
 
 ## Citation
-Rehaan Hussain, Shady S. Refaat, Incipient Stator Winding Fault Detection and Severity Estimation in Induction Motors With Unsupervised Machine Learning Algorithms, IEEE Transactions on Industrial Electronics, 2024, doi:10.1109/TIE.2024.xxxxxx
+R. Hussain and S. S. Refaat, "Incipient Stator Winding Fault Detection and Severity Estimation in Induction Motors With Unsupervised Machine Learning Algorithms," 2025 IEEE 19th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), Antalya, Turkiye, 2025, pp. 1-6, doi: 10.1109/CPE-POWERENG63314.2025.11027235. keywords: {Induction motors;Machine learning algorithms;Stator windings;Clustering algorithms;Machine learning;Indexes;Mutual information;Gaussian mixture model;Unsupervised learning;Predictive maintenance;Induction motor;machine learning;unsupervised learning;stator winding;fault severity},
+
 
