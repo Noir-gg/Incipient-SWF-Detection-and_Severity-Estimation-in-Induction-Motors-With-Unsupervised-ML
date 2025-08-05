@@ -38,10 +38,6 @@ Hierarchical clustering identifies six clusters when the dendrogram cut threshol
 ![Full dendrogram](/dendogram.png)
 ![Truncated dendrogram](/hierarchal_dendogram.png)
 
-### Precision‑Recall and ROC curves
-![Extra Trees ROC](/ExtraTrees_ROC_curve.jpeg)
-![XGBoost ROC](/XGBoost_ROC_curve.jpeg)
-
 
 ## Inputs and outputs
 * **Input** – `dataset/dataset.csv`.  
