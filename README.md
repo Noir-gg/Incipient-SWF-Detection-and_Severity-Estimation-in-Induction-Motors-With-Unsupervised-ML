@@ -32,7 +32,6 @@ Hierarchical clustering identifies six clusters when the dendrogram cut threshol
 ### Clustering visualisations
 ![K‑means PCA](/kmeans_pca_visualised.png)
 ![GMM PCA](/gmm_pca_visualised.png)
-![K‑means 3‑D](/kmeans_3dcluster.png)
 
 ### Hierarchical linkage
 ![Full dendrogram](/dendogram.png)
